@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael Andrade! 👋
 
-De Florianópolis/SC, sou um *Profissional de Tecnologia* no mercado tech. Atuo de ponta a ponta no desenvolvimento de aplicações corporativas escaláveis, integração de sistemas robustos e arquitetura de dados.
+De Florianópolis/SC, sou um *Profissional de Tecnologia* com anos de experiência no mercado tech. Atuo de ponta a ponta no desenvolvimento de aplicações corporativas escaláveis, integração de sistemas robustos e arquitetura de dados.
 
 ---
 
