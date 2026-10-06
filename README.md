@@ -21,6 +21,7 @@ Data & BI: Power BI · Data Warehouse · ETL · Analytics
 Engineering: Clean Code · SOLID · Testes · Code Review · Scrum · Kanban
 
 🚀 Projetos em destaque
+
 🧠 Intelligent Business Analytics Platform
 
 Projeto Full Stack de portfólio focado em dados, IA, analytics e tomada de decisão, desenvolvido com arquitetura moderna.
