@@ -1,43 +1,68 @@
-# Olá, eu sou o Rafael Andrade! 👋
+Olá, eu sou Rafael Andrade 👋
+Backend Developer | Full Stack Developer | Data Engineer | Java | Spring Boot | Python | JavaScript | Oracle | AWS
 
-De Florianópolis/SC, sou um *Profissional de Tecnologia* com experiência no mercado tech. Atuo de ponta a ponta no desenvolvimento de aplicações corporativas escaláveis, integração de sistemas robustos e arquitetura de dados.
+Desenvolvedor de software com 15+ anos de experiência em tecnologia, atuando com desenvolvimento de sistemas corporativos, APIs, integração de sistemas, bancos de dados e infraestrutura.
 
----
+Meu foco atual está em Backend e Full Stack, principalmente com Java 17, Spring Boot 3, Python, JavaScript, TypeScript, APIs REST, PostgreSQL, Oracle, Docker e AWS.
 
-### 💻 Sobre Mim
-* 🚀 Atualmente focado no ecossistema *Full Stack Java (Spring Boot), **Angular* e soluções em nuvem na *AWS*.
-* 🛠️ Sólida bagagem em modelagem de dados e otimização de performance com *Oracle* e *PL/SQL avançado*.
-* 📊 Experiência na estruturação de ambientes analíticos, *Data Warehouse* e inteligência de negócios.
-* 👥 Vivência prática com metodologias ágeis (*Scrum* e *Kanban*) e governança corporativa.
+🛠️ Stack
 
----
+Backend: Java 17 · Spring Boot 3 · Spring Security · JWT · Python · REST APIs
 
-### 🛠️ Minhas Competências Técnicas
+Frontend: JavaScript · TypeScript · Angular · HTML5 · CSS3
 
-| *Camada* | *Tecnologias e Ferramentas* |
-| :--- | :--- |
-| *Backend* | Java, Spring Boot, APIs REST, Python, PHP, JSON |
-| *Frontend* | Angular, JavaScript, HTML5, CSS3 |
-| *Banco de Dados* | Oracle, PL/SQL (Procedures, Triggers, Views Materializadas), MySQL, SQL |
-| *Cloud & DevOps* | AWS, Git, Linux, Windows Server |
-| *BI & Analytics* | Data Warehouse, Power BI, Dashboards Gerenciais |
-| *Metodologias* | Scrum, Kanban, ITIL, COBIT |
+Database: Oracle · PL/SQL · PostgreSQL · MySQL · MariaDB · SQL
 
----
+Cloud & DevOps: AWS · Docker · Git · GitHub · Linux · VMware
 
-### 📁 Projetos de Destaque
-* 🏥 *Sistemas Corporativos para Gestão de Saúde*: Desenvolvimento completo de ponta a ponta (Java, Spring Boot, Angular, AWS) para plataformas de grande porte focadas em indicadores assistenciais e gestão estratégica de custos.
-* 🏥 *MedClinic API* (Em desenvolvimento): API RESTful moderna para gestão de clínicas médicas utilizando Java 17, Spring Boot 3, Spring Security + JWT e Docker.
+Data & BI: Power BI · Data Warehouse · ETL · Analytics
 
----
+Engineering: Clean Code · SOLID · Testes · Code Review · Scrum · Kanban
 
-### 📜 Certificações Relevantes
-* *PMP* (Project Management Professional)
-* *ITIL* – Gestão de Serviços de TI
-* *COBIT* – Governança de TI
+🚀 Projetos em destaque
+🧠 Intelligent Business Analytics Platform
 
----
+Projeto Full Stack de portfólio focado em dados, IA, analytics e tomada de decisão, desenvolvido com arquitetura moderna.
 
-### 📫 Conecte-se Comigo
-* 📧 Email: rafael88andrade@gmail.com
-* 💼 LinkedIn: [://linkedin.com/in/rafael88andrade )
+Java + Spring Boot + React/TypeScript + PostgreSQL + Redis + Python + IA + Docker + CI/CD + AWS + Observabilidade
+
+🏥 MedClinic API
+
+API REST para gerenciamento de clínicas médicas.
+
+Java 17 · Spring Boot 3 · Spring Security · JWT · PostgreSQL · Docker · JUnit
+
+📊 Experiência
+
+Ao longo da minha carreira, desenvolvi soluções envolvendo:
+
+APIs e integrações entre sistemas;
+desenvolvimento Backend e Full Stack;
+Java, Python e JavaScript;
+automação de processos;
+Oracle e PL/SQL;
+bases analíticas e Data Warehouse;
+dashboards Power BI;
+sistemas corporativos ponta a ponta;
+infraestrutura e cloud.
+
+Entre os resultados, destaco uma automação que eliminou atividades manuais e gerou economia equivalente a quase um posto de trabalho por mês, além da estruturação de uma base analítica para gestão de custos e indicadores.
+
+🎓 Formação
+
+Tecnologia em Análise de Desenvolvimento de Sistemas
+MBA em Tecnologia, Governança e Transformação Digital
+
+Cursos: Oracle PL/SQL · TDD em Java · PHP · Ciência de Dados · SQL
+
+🎯 Atualmente
+
+Busco oportunidades como:
+
+Backend Developer · Full Stack Developer · Java Developer · Software Engineer
+
+📍 Florianópolis/SC
+🔗 LinkedIn: linkedin.com/in/rafael88andrade
+📧 E-mail: rafael88andrade@gmail.com 
+
+Construo soluções de software conectando backend, dados, integrações e infraestrutura para resolver problemas reais de negócio.
