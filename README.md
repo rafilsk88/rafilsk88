@@ -1,4 +1,5 @@
 Olá, eu sou Rafael Andrade 👋
+
 Backend Developer | Full Stack Developer | Data Engineer | Java | Spring Boot | Python | JavaScript | Oracle | AWS
 
 Desenvolvedor de software com 15+ anos de experiência em tecnologia, atuando com desenvolvimento de sistemas corporativos, APIs, integração de sistemas, bancos de dados e infraestrutura.
